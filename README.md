@@ -7,5 +7,5 @@
 - **Library**: `jjwt 0.11.5`
 - **Database**: `MySQL`
 - **ORM**: `Spring Data JPA`
-- **Build Tool**: `Gradle 8.5`
+- **Build Tool**: `Gradle 8.14.3`
 - **IDE**: `IntelliJ Ultimate`
